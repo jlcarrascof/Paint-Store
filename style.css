@@ -421,6 +421,7 @@ h1 {
 
 /* Blue hue decreases by 20 */
 .blues .hue .color-1 {
+    background-color: hsl(260, 100%, 50%);
 }
 
 .blues .hue .color-2 {
