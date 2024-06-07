@@ -93,7 +93,7 @@ nav li:last-child {
 }
 
 #banner:before { /* Orange Overlay */
-    background-color: orange;
+    background-color: rgba(255, 128, 0, 0.75);
     position: absolute;
     content: "";
     top: 0;
