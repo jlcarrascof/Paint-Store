@@ -283,7 +283,7 @@ h1 {
 
 /* Red hue increases by 15 */
 .reds .hue .color-1 {
-
+    background-color: hsl(320, 100%, 50%);
 }
 
 .reds .hue .color-2 {
