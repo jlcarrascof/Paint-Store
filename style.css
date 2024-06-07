@@ -310,7 +310,7 @@ h1 {
 
 /* Green lightness decreases by 20 */
 .greens .lightness .color-1 {
-
+    background-color: hsl(103, 100%, 85%);
 }
 
 .greens .lightness .color-2 {
